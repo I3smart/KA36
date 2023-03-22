@@ -1,5 +1,5 @@
 {
-      "name": "Zero Two",
+      "name": "ನಾನು ಕನ್ನಡಿಗ",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Mizuhara"
       ],
-   "repository": "https://github.com/Black-Bulls-Bots/zerotwobot",
+   "repository": "https://github.com/MR-AGORA/Kannadigabot",
    "addons": [
       {
          "options": {
@@ -26,12 +26,12 @@
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "8117180"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "34ce938c495ce1b2ae0e97fb237e8695"
       },
 
       "OWNER_ID": {
@@ -41,22 +41,22 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "kishoreee"
+         "value": "KannadigaXD"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "blackbulls_support"
+         "value": "Ganchali_bidi_kannada_mathadi"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001252338411"
+         "value": "-1001731550634"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001176183389"
+         "value": "-1001731550634"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -66,7 +66,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": ""
+         "value": "6181817811"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -75,7 +75,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "6181817811"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -113,7 +113,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://0.0.0.0"
+         "value": "https://t.me/kannadigaxd"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
