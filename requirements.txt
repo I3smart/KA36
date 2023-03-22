@@ -1,4 +1,4 @@
-aiohttp==3.8.0
+aiohttp
 aiosignal==1.2.0
 alphabet-detector==0.0.7
 anyio==3.3.4
